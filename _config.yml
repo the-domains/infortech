@@ -1,0 +1,14 @@
+layout_spectrum: 0.3269207
+color:
+  saturation: 0.14602
+  brandStrength: 0.5812954
+  lightness: 0.5949821
+  rhythmicContrast: 0.827026
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+typography_spectrum: 0.4673097
+name: Infortech
